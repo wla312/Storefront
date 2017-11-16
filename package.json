@@ -1,0 +1,26 @@
+{
+  "name": "storefront",
+  "version": "1.0.0",
+  "description": "storefront using node.js and mysql",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wla312/Storefront.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "will alt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wla312/Storefront/issues"
+  },
+  "homepage": "https://github.com/wla312/Storefront#readme",
+  "dependencies": {
+    "inquirer": "^4.0.0",
+    "mysql": "^2.15.0"
+  }
+}
