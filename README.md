@@ -12,7 +12,7 @@ All inventory is held in the 'products' table of a MySQL database called 'bamazo
 
 For a walkthrough of user functionality, refer to the [video][ ].
 
-[video]: /Storefront/bamazonCustomerFlow
+[video]: /Storefront/bamazonCustomerFlow.mov
 
 ### Manager View:
 In progress...
