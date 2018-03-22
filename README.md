@@ -10,7 +10,7 @@ Running `node bamazonCustomer.js` in node allows customers to view and select in
 
 All inventory is held in the 'products' table of a MySQL database called 'bamazon'. Refer to [bamazonSeeds.sql] to build your own database to replicate this project.
 
-For a walkthrough of user functionality, refer to the [video][ ].
+For a walkthrough of user functionality, refer to the [video](https://github.com/wla312/Storefront/blob/master/bamazonCustomerFlow.mov).
 
 [video]: /Storefront/bamazonCustomerFlow.mov
 
